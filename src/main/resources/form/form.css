@@ -1,0 +1,94 @@
+.label {
+    -fx-font-weight: bold;
+}
+
+.submit {
+    -fx-background-color: #000000,
+    linear-gradient(#7ebcea, #2f4b8f),
+    linear-gradient(#426ab7, #263e75),
+    linear-gradient(#395cab, #223768);
+    -fx-cursor: hand;
+    -fx-background-insets: 0, 1, 2, 3;
+    -fx-background-radius: 3, 2, 2, 2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+
+.submit:hover {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #134fa3 0%, #123890 100%),
+    #24429d,
+    #3a69d8,
+    radial-gradient(center 50% 50%, radius 100%, #4b6bea, #2c62c5);
+}
+
+.submit:pressed {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #0223ad 0%, #072a90 100%),
+    #04239d,
+    #0640d8,
+    radial-gradient(center 50% 50%, radius 100%, #1654ea, #0636c5);
+}
+
+.reset {
+    -fx-background-color: #000000,
+    linear-gradient(#ea7e7e, #8f2f2f),
+    linear-gradient(#b74242, #752626),
+    linear-gradient(#ab3939, #682222);
+}
+
+.reset:hover {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #a31313 0%, #901212 100%),
+    #9d2424,
+    #d83a3a,
+    radial-gradient(center 50% 50%, radius 100%, #ea4b4b, #c52c2c);
+}
+
+.reset:pressed {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #630309 0%, #6c1e12 100%),
+    #6a0924,
+    #9f3a1c,
+    radial-gradient(center 50% 50%, radius 100%, #a40d4b, #6f2c2c);
+}
+
+.copy-clipboard {
+    -fx-background-color: #000000,
+    linear-gradient(#efecec, #8b8888),
+    linear-gradient(#b7afaf, #807c7c),
+    linear-gradient(#a09e9e, #5f5a5a);
+    -fx-padding: 6 15 6 15;
+}
+
+.copy-clipboard:hover {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #a9a8a8 0%, #8d8c8c 100%),
+    #999696,
+    #cccbcb,
+    radial-gradient(center 50% 50%, radius 100%, #dadada, #c3c2c2);
+}
+
+.copy-clipboard:pressed {
+    -fx-background-color: linear-gradient(from 0% 93% to 0% 100%, #6d6f6f 0%, #5d5b5b 100%),
+    #434141,
+    #807c7c,
+    radial-gradient(center 50% 50%, radius 100%, #6f6d6d, #535252);
+}
+
+.eye-password {
+    -fx-cursor: hand;
+}
+
+.password-field {
+    -fx-pref-width: 330px;
+    -fx-min-width: 330px;
+    -fx-max-width: 330px;
+}
+
+.copyright {
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+    -fx-cursor: hand;
+}
+
+.dialog-pane{
+    -fx-border-color:black;
+    -fx-border-width:2px;
+}

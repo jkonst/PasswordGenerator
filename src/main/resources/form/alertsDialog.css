@@ -1,0 +1,5 @@
+.myDialog > *.label.content {
+    -fx-font-size: 10px;
+    -fx-padding: 15px;
+    -fx-font-weight: bold;
+}

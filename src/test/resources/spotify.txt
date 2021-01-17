@@ -1,0 +1,5 @@
+We are looking for a Senior Web Engineer with strong UX/UI Design skills to join the Experimentation Platform team in the Platform mission in our Stockholm office.
+
+"Think it, build it, ship it, tweak it" is at the core of Spotify, and in Experimentation we are providing Spotify teams a platform and practices to do exactly this: quickly and safely iterate through ideas, learn from them and make informed decisions for better products.
+
+Join a multidisciplinary team of data-, web-, backend engineers and data scientists who share a passion for bringing the scientific methodology to the daily toolbox of every Spotify team. We design and implement user interfaces for conveying elaborate concepts of experiment orchestration and setup. Together with your squad you'll be challenged to create interactive data visualizations from statistical analysis, bringing creativity and resourcefulness when visualizing metrics.
